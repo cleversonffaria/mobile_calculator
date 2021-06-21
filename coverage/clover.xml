@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1624249858008" clover="3.2.0">
+  <project timestamp="1624249858008" name="All files">
+    <metrics statements="69" coveredstatements="69" conditionals="30" coveredconditionals="30" methods="26" coveredmethods="26" elements="125" coveredelements="125" complexity="0" loc="69" ncloc="69" packages="4" files="7" classes="7"/>
+    <package name="src">
+      <metrics statements="53" coveredstatements="53" conditionals="24" coveredconditionals="24" methods="20" coveredmethods="20"/>
+      <file name="App.tsx" path="C:\Users\Cleverson\Desktop\mobile_calculator\src\App.tsx">
+        <metrics statements="49" coveredstatements="49" conditionals="24" coveredconditionals="24" methods="20" coveredmethods="20"/>
+        <line num="8" count="73" type="stmt"/>
+        <line num="9" count="73" type="stmt"/>
+        <line num="12" count="73" type="stmt"/>
+        <line num="13" count="49" type="stmt"/>
+        <line num="15" count="49" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="47" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="46" type="cond" truecount="4" falsecount="0"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="32" count="44" type="stmt"/>
+        <line num="39" count="73" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="44" count="73" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="52" count="73" type="stmt"/>
+        <line num="53" count="8" type="stmt"/>
+        <line num="55" count="8" type="stmt"/>
+        <line num="56" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="82" count="5" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="91" count="73" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="102" count="2" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="106" count="1" type="stmt"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="111" count="1" type="stmt"/>
+        <line num="112" count="5" type="stmt"/>
+        <line num="114" count="13" type="stmt"/>
+        <line num="115" count="9" type="stmt"/>
+        <line num="116" count="3" type="stmt"/>
+        <line num="117" count="5" type="stmt"/>
+        <line num="120" count="4" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="C:\Users\Cleverson\Desktop\mobile_calculator\src\styles.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\Cleverson\Desktop\mobile_calculator\src\components\index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.components.buttons">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="C:\Users\Cleverson\Desktop\mobile_calculator\src\components\buttons\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="1462" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="C:\Users\Cleverson\Desktop\mobile_calculator\src\components\buttons\styles.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="1462" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.display">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="C:\Users\Cleverson\Desktop\mobile_calculator\src\components\display\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="74" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="C:\Users\Cleverson\Desktop\mobile_calculator\src\components\display\styles.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="28" count="148" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
