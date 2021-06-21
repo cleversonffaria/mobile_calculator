@@ -1,0 +1,12 @@
+{
+  "name": "mobile_calculator",
+  "displayName": "mobile_calculator",
+  "expo": {
+    "name": "mobile_calculator",
+    "slug": "mobile_calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
